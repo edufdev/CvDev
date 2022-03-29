@@ -1,0 +1,170 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Oscar Eduardo",
+      "surnames": "Fuentes",
+      "title": "Backend developer with Python and Django",
+      "description": "Soy autodidacta desde que tengo 15 años. En el 2021 entre a la Universidad y con ello tuve mi primera laptop. Actualmente soy estudiante de Ingeniería en Sistemas en la UMG y estudiante de la Escuela de programación y software de Platzi. Tengo 6 meses de experiencia realizando proyectos pequeños personales con Python, C++, HTML, CSS y JS.",
+      "avatar": {
+        "alt": "Foto-tamaño-cedula.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/3cace463-e6ed-4fc8-b603-629ca3b792fb_foto-tamano-cedula.png"
+      },
+      "location": {
+        "notes": "Guatemala"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/edufmdev/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/edufdev"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/edufdev/"
+      },
+      {
+        "type": "other",
+        "URL": "https://platzi.com/@eduardofuentesm"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Mis gustos, pasatiempos y más",
+        "fact": "* Música jazz, clasic rock n roll y blus\n* Estar con mis mascotas\n* Compartir ideas\n* Tomar café\n"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/edufmdev/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "VS Code",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
