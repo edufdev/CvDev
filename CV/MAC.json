@@ -116,6 +116,44 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Fundamentos de Python",
+        "startDate": "2021-12-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "- Hacer estructuras de datos\n- Crear bucles\n- Conocer herramientas para programar\n- Aprender conceptos básicos de Python",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/511cb0de-b52b-4200-b467-852279c680e5_descarga-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ingeniería en Sistemas de Información y Ciencias de la Computación",
