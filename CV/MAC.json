@@ -218,6 +218,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Introducción al Desarrollo Backend",
+        "startDate": "2021-12-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "- Conoce la diferencia entre framework y librería.\n- Afianza el concepto de servidor y sus características.\n- Analiza el protocolo HTTP.\n- Entiende el significado de frontend y backend.",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/8631b309-f97c-4888-b42f-0bba3ad3c7ff_descarga-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ingeniería en Sistemas de Información y Ciencias de la Computación",
