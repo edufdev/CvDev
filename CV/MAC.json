@@ -185,6 +185,63 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Desarrollo Backend con Python y Django",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "El Backend, es la capa que tiene acceso a los datos, proveyendo los canales de software necesarios para separar la lógica de negocio con la interacción de un cliente; Por eso los Backends prefieren Python Django por encima de otros frameworks, ya que al momento de seleccionar el stack de una aplicación web se deben evaluar principalmente 3 cosas:\n\nComunidad: es ideal que sea un proyecto open source con una comunidad activa, para que reciba actualizaciones constantemente, para Python Django aquí puedes visualizar el repositorio principal de este framework.\nDocumentación: es toda la información disponible sobre algo en particular, tutoriales etc; Si un framework no tiene buena documentación es difícil usarlo, DjangoProject tiene una muy excelente, todo lo que necesitas saber sobre Python Django lo puedes encontrar allí.\nLenguaje: es importante que esté en un lenguaje de alto nivel para que facilite el desarrollo y permita reutilizar muchos componentes, Python cumple esos requisitos.\nEntonces en esta ruta de aprendizaje terminarás conociendo bien el lenguaje en el cual está escrito Django, el cual es Python, también aprenderás a trabajar con un manejador de control de versiones Git, algo de modelado de datos, verbos http y otras cosas que sirven de base para tener los conocimientos generales y luego engranar los componentes dependiendo de tus necesidades.",
+          "URL": "https://platzi.com/backend-python/",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/056f7287-fbc1-450f-a065-91496d4663a9_descarga-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Celery",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "GraphQL",
+            "type": "technology"
+          },
+          {
+            "name": "Fastapi",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
