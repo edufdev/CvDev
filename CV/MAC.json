@@ -123,7 +123,11 @@
         "institution": {
           "name": "Universidad Mariano Gálvez de Guatemala",
           "description": "El Ingeniero en Sistemas de Información egresado de la Universidad Mariano Gálvez de Guatemala, es un profesional que se desempeña en el área de sistemas e informática capacitado para las siguientes actividades:\n\nIntegración de sistemas operativos, redes de computadoras, telecomunicaciones, hardware, bases de datos, aseguramiento de la calidad y técnicas de desarrollo de software\nAnálisis, diseño y desarrollo de sistemas de información útiles a las empresas, aplicando conceptos gerenciales, ingeniería económica, estadística, calidad y procesos administrativos\nRealizar estudios de desempeño y uso de sistemas automatizados\nApoyar a todas las unidades de las organizaciones en la integración de equipos de desarrollo de soluciones de sistemas\nAdaptarse e integrarse a nuevas tecnologías que en el futuro se desarrollen\nAdministrar cualquier área dentro de las empresas aplicado los conocimientos adquiridos\nTrabajar en grupos multidisciplinarios\nFormar grupos de trabajo y dirigirlos en proyectos de sistemas de información\nAplicar y practicar los valores éticos en su función y desempeño profesional",
-          "URL": "https://umg.edu.gt/ingenieria/sistemas"
+          "URL": "https://umg.edu.gt/ingenieria/sistemas",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/4e1f0f35-7f4a-4d6a-b809-a2d32513c97b_descarga.png"
+          }
         },
         "linkedCompetences": [
           {
