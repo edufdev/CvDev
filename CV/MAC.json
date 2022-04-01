@@ -180,6 +180,44 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso Profesional de Git y GitHub",
+        "startDate": "2021-12-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "- Llevar un Control de Versiones en tus Proyectos con Git\n- Trabajar en Equipos de Forma Colaborativa\n- Utilizar Dominios Personalizados con GitHub Pages\n- Instalar Git en tu sistema operativo",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/d2f54805-ce82-47db-83ca-c17359b65f0b_descarga-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ingeniería en Sistemas de Información y Ciencias de la Computación",
