@@ -118,6 +118,34 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Proyectos hechos en Python",
+          "description": "Proyectos personales realizados durante y después de los cursos recibidos en Platzi.",
+          "URL": "https://github.com/edufdev?tab=repositories"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
