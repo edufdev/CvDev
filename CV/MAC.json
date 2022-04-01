@@ -43,6 +43,35 @@
       }
     ]
   },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Diseño de API de Twitter",
+          "description": "Estructura de la API de Twitter replicándola en un diagrama que podrás llevar a código siguiendo tu ruta de aprendizaje en desarrollo backend en Platzi.",
+          "URL": "https://www.canva.com/design/DAE8CE48A-w/w8EXBREFvvXBWA4_hqTVWg/view?utm_content=DAE8CE48A-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/c0f54669-918c-414b-b27e-61d619548af0_descarga-(1).png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "finishDate": "2021-02-01",
+            "competences": [
+              {
+                "name": "Figma",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
