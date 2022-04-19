@@ -236,19 +236,19 @@
             "type": "technology"
           },
           {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "Ubuntu",
-            "type": "technology"
-          },
-          {
             "name": "Linux",
             "type": "technology"
           },
           {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
             "name": "Visual Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
             "type": "technology"
           }
         ]
@@ -296,11 +296,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "Github",
+            "name": "JavaScript",
             "type": "technology"
           },
           {
@@ -312,7 +308,11 @@
             "type": "technology"
           },
           {
-            "name": "JavaScript",
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
             "type": "technology"
           }
         ]
@@ -355,19 +355,19 @@
         },
         "linkedCompetences": [
           {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
             "name": "Python",
             "type": "technology"
           },
           {
-            "name": "Github",
+            "name": "Windows",
             "type": "technology"
           },
           {
-            "name": "Windows",
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
             "type": "technology"
           }
         ]
@@ -392,27 +392,7 @@
             "type": "technology"
           },
           {
-            "name": "Linux",
-            "type": "technology"
-          },
-          {
             "name": "Django",
-            "type": "technology"
-          },
-          {
-            "name": "Flask",
-            "type": "technology"
-          },
-          {
-            "name": "Celery",
-            "type": "technology"
-          },
-          {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "Github",
             "type": "technology"
           },
           {
@@ -420,11 +400,31 @@
             "type": "technology"
           },
           {
-            "name": "Fastapi",
+            "name": "Linux",
             "type": "technology"
           },
           {
             "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Fastapi",
+            "type": "technology"
+          },
+          {
+            "name": "Celery",
             "type": "technology"
           }
         ]
@@ -455,7 +455,7 @@
           "type": "technology"
         },
         {
-          "name": "VS Code",
+          "name": "Visual Studio Code",
           "type": "technology"
         },
         {
@@ -473,11 +473,11 @@
       ],
       "discardedCompetences": [
         {
-          "name": "C++",
+          "name": "PHP",
           "type": "technology"
         },
         {
-          "name": "PHP",
+          "name": "C++",
           "type": "technology"
         }
       ]
