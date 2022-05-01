@@ -97,31 +97,6 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": " Mi primer content magnet efectivo | Seguimiento Marca Personal",
-          "description": "🚩 Entender el crecimiento de tu red\n🚩 Que tipo de contenido te esta generando mejor valor agregado\n🚩 Identificar los días y horarios que mejor te conviene publicar\n🚩 Fidelización e impacto de tu marca en tu red\n🚩 Tomar acciones en tiempo real para optimizar tus cifras",
-          "URL": "https://docs.google.com/spreadsheets/d/1aJNhCVTLca9tIYCw6w4ZXxEoC-YDAcoK/edit?rtpof=true&sd=true",
-          "image": {
-            "alt": "descarga (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/8f80cc2d-7443-4079-86bb-ece06c016573_descarga-(1).png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-01-01",
-            "finishDate": "2022-03-01",
-            "competences": [
-              {
-                "name": "Excel",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
