@@ -8,8 +8,8 @@
     "profile": {
       "name": "Oscar Eduardo",
       "surnames": "Fuentes",
-      "title": "Backend developer with Python and Django",
-      "description": "Soy estudiante de programación y desarrollo de software en Platzi. Estudio ingeniería en sistemas en la Universidad Mariano Gálvez de Guatemala. Durante más de 6 meses me he dedicado a fortalecer mis habilidades blandas así como habilidades de desarrollador web utilizando Python y Django como framework. Tengo conocimientos básicos con JavaScript, C++, bases de datos, POO con Python, Selenium, FastAPI, y Flask. Diseñe una API utilizando Twitter como ejemplo. He desarrollado varios programas para GitHub con Python. Estoy desarrollando un CRUD con Python. Recientemente he ganado la insignia de conocimiento satisfactorio con Python en LinkedIn.",
+      "title": "Desarrollador backend con Python y Django.",
+      "description": "Soy desarrollador web backend con Python y Django para la construcción de aplicaciones seguras y escalables. Busco trabajar con datos que extraen de las APIs que usan y estructurarlos para que soporten sus nuevos informes y productos.",
       "avatar": {
         "alt": "Foto-tamaño-cedula.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/3cace463-e6ed-4fc8-b603-629ca3b792fb_foto-tamano-cedula.png"
@@ -20,31 +20,59 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/edufmdev/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/edufdev"
+      },
+      {
+        "type": "other",
+        "URL": "https://platzi.com/@eduardofuentesm"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/edufdev/"
       },
       {
-        "type": "other",
-        "URL": "https://platzi.com/@eduardofuentesm"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/edufdev/"
       }
     ],
     "interestingFacts": [
       {
         "topic": "Mis gustos, pasatiempos y más",
-        "fact": "* Música jazz, clasic rock n roll y blus\n* Estar con mis mascotas\n* Compartir ideas\n* Tomar café\n"
+        "fact": "* Música jazz, clasic rock n roll y blus\n* Estar con mis mascotas\n* Compartir ideas\n* Tomar café"
       }
     ]
   },
   "experience": {
     "projects": [
+      {
+        "details": {
+          "name": "Proyectos hechos en Python",
+          "description": "Proyectos personales realizados durante y después de los cursos recibidos en Platzi.",
+          "URL": "https://github.com/edufdev?tab=repositories"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "details": {
           "name": "Diseño de API de Twitter",
@@ -118,44 +146,16 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Proyectos hechos en Python",
-          "description": "Proyectos personales realizados durante y después de los cursos recibidos en Platzi.",
-          "URL": "https://github.com/edufdev?tab=repositories"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-10-01",
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English"
       },
       {
-        "name": "English"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -173,37 +173,19 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "GraphQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "Flask",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
+          "name": "Fastapi",
           "type": "technology"
         }
       },
@@ -215,6 +197,96 @@
       }
     ],
     "studies": [
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Desarrollo Backend con Python y Django",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "El Backend, es la capa que tiene acceso a los datos, proveyendo los canales de software necesarios para separar la lógica de negocio con la interacción de un cliente; Por eso los Backends prefieren Python Django por encima de otros frameworks, ya que al momento de seleccionar el stack de una aplicación web se deben evaluar principalmente 3 cosas:\n\nComunidad: es ideal que sea un proyecto open source con una comunidad activa, para que reciba actualizaciones constantemente, para Python Django aquí puedes visualizar el repositorio principal de este framework.\nDocumentación: es toda la información disponible sobre algo en particular, tutoriales etc; Si un framework no tiene buena documentación es difícil usarlo, DjangoProject tiene una muy excelente, todo lo que necesitas saber sobre Python Django lo puedes encontrar allí.\nLenguaje: es importante que esté en un lenguaje de alto nivel para que facilite el desarrollo y permita reutilizar muchos componentes, Python cumple esos requisitos.\nEntonces en esta ruta de aprendizaje terminarás conociendo bien el lenguaje en el cual está escrito Django, el cual es Python, también aprenderás a trabajar con un manejador de control de versiones Git, algo de modelado de datos, verbos http y otras cosas que sirven de base para tener los conocimientos generales y luego engranar los componentes dependiendo de tus necesidades.",
+          "URL": "https://platzi.com/backend-python/",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/056f7287-fbc1-450f-a065-91496d4663a9_descarga-(1).png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Celery",
+            "type": "technology"
+          },
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "Fastapi",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "GraphQL",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingeniería en Sistemas de Información y Ciencias de la Computación",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "Universidad Mariano Gálvez de Guatemala",
+          "description": "El Ingeniero en Sistemas de Información egresado de la Universidad Mariano Gálvez de Guatemala, es un profesional que se desempeña en el área de sistemas e informática capacitado para las siguientes actividades:\n\nIntegración de sistemas operativos, redes de computadoras, telecomunicaciones, hardware, bases de datos, aseguramiento de la calidad y técnicas de desarrollo de software\nAnálisis, diseño y desarrollo de sistemas de información útiles a las empresas, aplicando conceptos gerenciales, ingeniería económica, estadística, calidad y procesos administrativos\nRealizar estudios de desempeño y uso de sistemas automatizados\nApoyar a todas las unidades de las organizaciones en la integración de equipos de desarrollo de soluciones de sistemas\nAdaptarse e integrarse a nuevas tecnologías que en el futuro se desarrollen\nAdministrar cualquier área dentro de las empresas aplicado los conocimientos adquiridos\nTrabajar en grupos multidisciplinarios\nFormar grupos de trabajo y dirigirlos en proyectos de sistemas de información\nAplicar y practicar los valores éticos en su función y desempeño profesional",
+          "URL": "https://umg.edu.gt/ingenieria/sistemas",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/4e1f0f35-7f4a-4d6a-b809-a2d32513c97b_descarga.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      },
       {
         "studyType": "certification",
         "degreeAchieved": true,
@@ -232,7 +304,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "Python",
+            "name": "Git",
             "type": "technology"
           },
           {
@@ -240,15 +312,15 @@
             "type": "technology"
           },
           {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "Visual Studio",
+            "name": "Python",
             "type": "technology"
           },
           {
             "name": "Ubuntu",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio",
             "type": "technology"
           }
         ]
@@ -296,14 +368,6 @@
         },
         "linkedCompetences": [
           {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
             "name": "CSS",
             "type": "technology"
           },
@@ -313,6 +377,14 @@
           },
           {
             "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
             "type": "technology"
           }
         ]
@@ -338,96 +410,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Ingeniería en Sistemas de Información y Ciencias de la Computación",
-        "startDate": "2021-01-01",
-        "institution": {
-          "name": "Universidad Mariano Gálvez de Guatemala",
-          "description": "El Ingeniero en Sistemas de Información egresado de la Universidad Mariano Gálvez de Guatemala, es un profesional que se desempeña en el área de sistemas e informática capacitado para las siguientes actividades:\n\nIntegración de sistemas operativos, redes de computadoras, telecomunicaciones, hardware, bases de datos, aseguramiento de la calidad y técnicas de desarrollo de software\nAnálisis, diseño y desarrollo de sistemas de información útiles a las empresas, aplicando conceptos gerenciales, ingeniería económica, estadística, calidad y procesos administrativos\nRealizar estudios de desempeño y uso de sistemas automatizados\nApoyar a todas las unidades de las organizaciones en la integración de equipos de desarrollo de soluciones de sistemas\nAdaptarse e integrarse a nuevas tecnologías que en el futuro se desarrollen\nAdministrar cualquier área dentro de las empresas aplicado los conocimientos adquiridos\nTrabajar en grupos multidisciplinarios\nFormar grupos de trabajo y dirigirlos en proyectos de sistemas de información\nAplicar y practicar los valores éticos en su función y desempeño profesional",
-          "URL": "https://umg.edu.gt/ingenieria/sistemas",
-          "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/4e1f0f35-7f4a-4d6a-b809-a2d32513c97b_descarga.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Windows",
-            "type": "technology"
-          },
-          {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
-            "name": "Github",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "selfTraining",
-        "degreeAchieved": false,
-        "name": "Desarrollo Backend con Python y Django",
-        "startDate": "2021-11-01",
-        "institution": {
-          "name": "Platzi",
-          "description": "El Backend, es la capa que tiene acceso a los datos, proveyendo los canales de software necesarios para separar la lógica de negocio con la interacción de un cliente; Por eso los Backends prefieren Python Django por encima de otros frameworks, ya que al momento de seleccionar el stack de una aplicación web se deben evaluar principalmente 3 cosas:\n\nComunidad: es ideal que sea un proyecto open source con una comunidad activa, para que reciba actualizaciones constantemente, para Python Django aquí puedes visualizar el repositorio principal de este framework.\nDocumentación: es toda la información disponible sobre algo en particular, tutoriales etc; Si un framework no tiene buena documentación es difícil usarlo, DjangoProject tiene una muy excelente, todo lo que necesitas saber sobre Python Django lo puedes encontrar allí.\nLenguaje: es importante que esté en un lenguaje de alto nivel para que facilite el desarrollo y permita reutilizar muchos componentes, Python cumple esos requisitos.\nEntonces en esta ruta de aprendizaje terminarás conociendo bien el lenguaje en el cual está escrito Django, el cual es Python, también aprenderás a trabajar con un manejador de control de versiones Git, algo de modelado de datos, verbos http y otras cosas que sirven de base para tener los conocimientos generales y luego engranar los componentes dependiendo de tus necesidades.",
-          "URL": "https://platzi.com/backend-python/",
-          "image": {
-            "alt": "descarga (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/056f7287-fbc1-450f-a065-91496d4663a9_descarga-(1).png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Django",
-            "type": "technology"
-          },
-          {
-            "name": "GraphQL",
-            "type": "technology"
-          },
-          {
-            "name": "Linux",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "Flask",
-            "type": "technology"
-          },
-          {
-            "name": "Github",
-            "type": "technology"
-          },
-          {
-            "name": "Fastapi",
-            "type": "technology"
-          },
-          {
-            "name": "Celery",
-            "type": "technology"
-          }
-        ]
       }
     ]
   },
@@ -436,30 +418,18 @@
       "publicProfiles": [
         {
           "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/edufmdev/"
+          "URL": "https://www.linkedin.com/in/edufdev/"
         }
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
           "name": "Django",
           "type": "technology"
         },
         {
-          "name": "Linux",
-          "type": "technology"
-        },
-        {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        },
-        {
-          "name": "SQL",
+          "name": "Fastapi",
           "type": "technology"
         },
         {
@@ -467,17 +437,29 @@
           "type": "technology"
         },
         {
-          "name": "Git",
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       ],
       "discardedCompetences": [
         {
-          "name": "PHP",
+          "name": "C++",
           "type": "technology"
         },
         {
-          "name": "C++",
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
           "type": "technology"
         }
       ]
