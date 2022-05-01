@@ -263,6 +263,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Básico de GraphQL",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Maneja los datos de manera sencilla en el backend y en el frontend con GraphQL. Implementar esta solución creada por Facebook y aprovecha su versatilidad en la consulta y manipulación de APIs. Desarrollar mis proyectos de forma increíblemente fácil con Platzi.\n\n- Leer y escribir con GraphQL a cualquier base de datos\n- Conocer los casos de uso óptimos para GraphQL",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "badge-graphql-2e658b66-c0b9-4b33-8f84-c1b7311be302.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/2552830b-f193-4218-8df6-0dfb3e903566_badge-graphql-2e658b.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "GraphQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Fundamentos de Bases de Datos",
         "startDate": "2022-03-01",
         "institution": {
