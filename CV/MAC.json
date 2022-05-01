@@ -122,30 +122,6 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Taller de Resolución de Problemas",
-          "description": "Investigación en mi comunidad acerca de la descomunicación social durante la pandemia.\nMetodología usada: Design Thinking\nPasos para resolver el problema: Observación, curiosidad, sin juzgar y encontrando conexiones.\nDentro de la investigación encontré 3 actores etnográficos del problema planteado, lo que me permitió realizar insights para poder llegar a una solución del problema. Más del 75% de las personas se encerró y se alejo de la comunidad por más de 11 meses continuos. 12% de ella perdieron un ser querido. luego de 13 meses un 90% de las personas ha empezado a salir.\nSolución: Realizamos talleres y eventos sociales con medidas de seguridad llevadas a cabo con el apoyo del COCODE de la comunidad, donde se enseñe inteligencia emocional, oratoria y escritura asertiva para romper la brecha de la comunicación existente., además de actividades con los niños.",
-          "image": {
-            "alt": "descarga (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/f6ba6b4e-88ec-44eb-beff-473a2ed926d3_descarga-(1).png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-12-01",
-            "finishDate": "2022-03-01",
-            "competences": [
-              {
-                "name": "Excel",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
