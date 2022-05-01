@@ -380,6 +380,35 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Django básico",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Analizar los conceptos iniciales para desarrollar el backend de tu aplicación web con este framework. Aprender sobre la estructura de un proyecto, sus archivos más importantes y cómo desarrollar en cada uno, de la mano de tu profesor Facundo García Martoni.\n\n- Dar los primeros pasos en el desarrollo backend con Python\n- Crear, desde cero, tu primer aplicación web\n- Aprender a estructurar un proyecto en este framework\n- Conocer a Django y ubicarlo en el ecosistema de Python",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "piezas-basico-django_badge-b37090dc-8812-45dd-876d-374e878b9b8d.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/07bdc910-e8bf-4c3d-bc29-5ad40513b4c7_piezas-basico-django.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ingeniería en Sistemas de Información y Ciencias de la Computación",
