@@ -133,6 +133,19 @@
           }
         ],
         "summary": "Tutorial dirigido para desarrolladores Python\njunior(básico)"
+      },
+      {
+        "title": "Cómo crear tu propio bot de Telegram con Python",
+        "type": "other",
+        "URL": "https://platzi.com/blog/bot-python/",
+        "authors": [
+          {
+            "name": "Platzi:",
+            "surnames": "Curso básico de Python",
+            "title": "Author"
+          }
+        ],
+        "summary": "- Crear el bot desde Telegram.\n- Obtener el token para conectar tu script con\nTelegram.\n- Hacer una función en Python que envíe mensajes\na Telegram.\n- Crear una función para hacer web scraping a\nuna web que muestre los precios de Bitcoin en\ntiempo real.\n- Hacer que se envíe diariamente una actualización\ndel precio a tu chat"
       }
     ]
   },
