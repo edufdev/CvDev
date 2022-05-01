@@ -353,6 +353,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Python intermedio",
+        "startDate": "2022-03-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Fortalecimiento de mis habilidades para profesionalizarme con Python, uno de los lenguajes más utilizados en el mundo en desarrollo backend, ciencia de datos e inteligencia artificial. Aprender conceptos y practicar con retos que elevarán mi nivel al programar.\n\n- Utiliza list y dictionary comprehensions, y high order functions.\n- Preparar un entorno virtual con pip.\n- Maneja archivos de texto con el context manager.\n- Aprende qué significan los errores y cómo manejarlos.",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "badge-intermedio-de-python-d0d16518-5edd-450a-b2a9-0710bded1494.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/e39ff23f-ba96-471f-8e76-9e2bedf514f3_badge-intermedio-de-.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Curso Profesional de Git y GitHub",
         "startDate": "2021-12-01",
         "finishDate": "2022-03-01",
