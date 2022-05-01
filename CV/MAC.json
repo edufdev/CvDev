@@ -47,6 +47,38 @@
     "projects": [
       {
         "details": {
+          "name": "Platzi Blog",
+          "description": "- Creación de un sistema de blogs.\n- Realización un CRUD para base de datos relacionales como no relacionales.\n- Uso de modelo entidad-relación.",
+          "URL": "https://github.com/edufdev/Platzi-Blog",
+          "image": {
+            "alt": "Proyecto-fundamentos-bases-datos.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/82b9c5b8-04ab-4e6c-93ae-ff82057c3705_proyecto-fundamentos.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-04-01",
+            "competences": [
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "UML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Análisis de los objetos, clases y métodos de la aplicación Uber",
           "description": "- A partir de este análisis se realizo la extracción y definición de los objetos, clases y métodos que conforman la aplicación.\n- Utilice UML para modelarla.\n- Usando diferentes lenguajes como Java, PHP y Python hice la implementación de las clases y objetos de la aplicación.",
           "URL": "https://github.com/edufdev/objetos_clases_y_metodos_app_uber",
