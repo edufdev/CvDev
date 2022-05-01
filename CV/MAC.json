@@ -70,6 +70,19 @@
         "summary": "Esse repositório tem como objetivo listar\nconteúdos gratuitos, como livros, cursos entre\noutras coisas, que são compartilhados pela\nnossa comunidade."
       },
       {
+        "title": " Estructuras de datos con Python: aprende de una vez por todas",
+        "type": "other",
+        "URL": "https://platzi.com/blog/estructuras-datos-python/",
+        "authors": [
+          {
+            "name": "Platzi:",
+            "surnames": "Curso de Estructuras de Datos Lineales con Python",
+            "title": "Author"
+          }
+        ],
+        "summary": "Las estructuras de datos no son mágicas y\ntampoco te brindarán la posibilidad de optimizar\ntu proyecto por sí mismas. Esto implica un\nrazonamiento profundo, entender desde antes\nqué es lo que quieres lograr, las restricciones de\ntu problema a resolver y comprender las\ncaracterísticas de las diferentes estructuras de\ndatos que podrías implementar."
+      },
+      {
         "title": " How to survive Stackoverflowgeddon?",
         "type": "reading",
         "URL": "https://www.getmanfred.com/blog/how-to-survive-stackoverflowgeddon",
