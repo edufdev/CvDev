@@ -115,6 +115,62 @@
       },
       {
         "details": {
+          "name": "Repositorios de GitHub",
+          "description": "- Programas desarrollados durante mi formación académica profesional.\n- Implementación de programas desarrollados como retos personales,\n- Proyectos desarrollados en Python, Django, FastAPI y otras tecnologías.",
+          "URL": "https://github.com/edufdev",
+          "image": {
+            "alt": "Azul_Oscuro_Sencillo_Tecnología_y_Videojuegos_Enlace_en_Perfil_Sitio_Web__6_-removebg-preview.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/f35af436-f7cb-4bda-a5cf-a1ac66038e15_azul_oscuro_sencillo.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Selenium",
+                "type": "technology"
+              },
+              {
+                "name": "UML",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Análisis de los objetos, clases y métodos de la aplicación Uber",
           "description": "- A partir de este análisis se realizo la extracción y definición de los objetos, clases y métodos que conforman la aplicación.\n- Utilice UML para modelarla.\n- Usando diferentes lenguajes como Java, PHP y Python hice la implementación de las clases y objetos de la aplicación.",
           "URL": "https://github.com/edufdev/objetos_clases_y_metodos_app_uber",
