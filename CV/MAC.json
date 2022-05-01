@@ -263,6 +263,39 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "FastAPI: Fundamentos, Path Operations y Validaciones",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Analizar los conceptos iniciales para desarrollar aplicaciones backend con este framework. Aprender de path operations, sus componentes, estrategias para validar diferentes tipos de datos y más junto a Facundo García como profesor.\n\n- Utilizar Request Body, Path y Query Parameters\n- Trabajar con Path Operations y sus componentes.\n- Validar todos los datos entrantes a una API.\nCrea un entorno de desarrollo para programar API.",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "artboard-610-5afc949a-1c64-47ce-836c-7aef905b8555.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/c332405a-4446-457d-a5d5-2a54b90e5251_artboard-610-5afc949.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Fundamentos de Bases de Datos",
         "startDate": "2022-03-01",
         "institution": {
