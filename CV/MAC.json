@@ -261,6 +261,35 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Fundamentos de Bases de Datos",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Entender los fundamentos de diseño y modelado requeridos para que tener la mejor arquitectura posible. Crear mis propios modelos de bases de datos con las mejores prácticas desde cero.\n\n- Teoría general de Bases de Datos\n- Bases de Datos Relacionales\n- Bases de Datos no Relacionales\n- Otros tipos de Bases de Datos",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/18210cd6-4a1f-4f7e-8023-69eefd84a5ce_badge-fundamentos-de.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "selfTraining",
         "degreeAchieved": false,
         "name": "Desarrollo Backend con Python y Django",
@@ -376,36 +405,6 @@
           },
           {
             "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Fundamentos de Bases de Datos",
-        "startDate": "2022-03-01",
-        "finishDate": "2022-05-01",
-        "institution": {
-          "name": "Platzi",
-          "description": "Entender los fundamentos de diseño y modelado requeridos para que tener la mejor arquitectura posible. Crear mis propios modelos de bases de datos con las mejores prácticas desde cero.\n\n- Teoría general de Bases de Datos\n- Bases de Datos Relacionales\n- Bases de Datos no Relacionales\n- Otros tipos de Bases de Datos",
-          "URL": "https://platzi.com/@eduardofuentesm/",
-          "image": {
-            "alt": "badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/45e412f4-aa07-4974-bd3e-afd2388342d5_badge-fundamentos-de.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "UML",
             "type": "technology"
           }
         ]
