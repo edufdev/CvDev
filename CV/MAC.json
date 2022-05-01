@@ -445,6 +445,44 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Programación Orientada a Objetos: POO",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "La misión: lograr que la virtualidad sea idéntica a la realidad. El elegido para esta tarea: tú. Sé parte de la generación que logra cambiar el mundo a través de ideas innovadoras, porque la diferencia entre ser testigo del cambio y ser parte de él comienza con Platzi.\n\nConocer los diferentes lenguajes de programación orientados a objetos\nAnalizar problemas para el desarrollo de proyectos orientado a objetos\nEntender el funcionamiento de los objetos\nEntender el funcionamiento de las clases",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "badges-poo-513deb20-a5bd-40a7-b97a-c36dc772d512.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/5a6c41f4-f510-415a-90c5-bd7bf3f336b4_badges-poo-513deb20-.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Curso Profesional de Git y GitHub",
         "startDate": "2022-01-01",
         "finishDate": "2022-03-01",
