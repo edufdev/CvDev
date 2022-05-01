@@ -328,32 +328,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Curso de Introducción a la Terminal y Línea de Comandos",
-        "startDate": "2021-12-01",
-        "finishDate": "2022-02-01",
-        "institution": {
-          "name": "Platzi",
-          "description": "- Crearás tus propios alias y variables de entorno para ahorrar tiempo.\n- Podrás manipular archivos y directorios desde la terminal.\n- Personalizarás tu terminal de acuerdo a las necesidades de tu proyecto.\n- Aprenderás comandos básicos para usar la terminal.",
-          "URL": "https://platzi.com/@eduardofuentesm/",
-          "image": {
-            "alt": "descarga (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/3e132987-dd0a-424e-87f7-c38359718e4a_descarga-(1).png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Linux",
-            "type": "technology"
-          },
-          {
-            "name": "Ubuntu",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Curso Profesional de Git y GitHub",
         "startDate": "2021-12-01",
         "finishDate": "2022-03-01",
