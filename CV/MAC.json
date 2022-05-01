@@ -43,6 +43,51 @@
       }
     ]
   },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Análisis de los objetos, clases y métodos de la aplicación Uber",
+          "description": "- A partir de este análisis se realizo la extracción y definición de los objetos, clases y métodos que conforman la aplicación.\n- Utilice UML para modelarla.\n- Usando diferentes lenguajes como Java, PHP y Python hice la implementación de las clases y objetos de la aplicación.",
+          "URL": "https://github.com/edufdev/objetos_clases_y_metodos_app_uber",
+          "image": {
+            "alt": "Proyecto-poo_1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/f5d569f5-7cdf-4d58-913b-533f9dbd1a84_proyecto-poo_1.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-04-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "UML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
