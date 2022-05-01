@@ -344,6 +344,47 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Flask",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Flask es un micro-framework para el desarrollo rápido de aplicaciones web simples con Python. Aprender las principales funcionalidades de Flask, desarrollar mi primer proyecto utilizando este micro framework desde 0. Crear sistemas de login, persiste los datos de mis usuarios en Firebase, manejar templates, crear rutas y hacer despliegue de mi aplicación a producción.\n\nEntender la estructura del framework Flask\nDesarrollar una aplicación utilizando Flask\nEncontrar errores en un proyecto desarrollado con Flask",
+          "URL": "https://platzi.com/@eduardofuentesm/",
+          "image": {
+            "alt": "badge-flask-6caeb42e-fa57-486c-8c8a-9c11a37a8e64.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/0547700b-7ad8-4828-bc27-80729628c243_badge-flask-6caeb42e.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Cloud Firestore",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "Jinja",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "selfTraining",
         "degreeAchieved": false,
         "name": "Desarrollo Backend con Python y Django",
