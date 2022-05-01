@@ -94,6 +94,19 @@
           }
         ],
         "summary": "\"Your data are yours\" is the claim of many\nprofessional social networks. We have a different\nconcept of what \"yours' should mean."
+      },
+      {
+        "title": "Creando siglas con Python",
+        "type": "other",
+        "URL": "https://platzi.com/tutoriales/1937-python/13355-creando-siglas-con-python/",
+        "authors": [
+          {
+            "name": "Edufdev:",
+            "surnames": "Platzi",
+            "title": "Author"
+          }
+        ],
+        "summary": "Tutorial dirigido para desarrolladores Python\njunior(básico)"
       }
     ]
   },
