@@ -55,6 +55,19 @@
           }
         ],
         "summary": "\"Preguntamos a nuestros estudiantes qué libros\nfueron importantes para siempre seguir adelante\ny alcanzar sus objetivos. La respuesta de la\ncomunidad fue increíble. No fue fácil, pero aquí\ntenemos la lista de los 7 libros más\nrecomendados\""
+      },
+      {
+        "title": " Conteúdo gratuito",
+        "type": "other",
+        "URL": "https://github.com/perifacode/conteudo-gratuito",
+        "authors": [
+          {
+            "name": "GitHub:",
+            "surnames": "perifacode",
+            "title": "Author"
+          }
+        ],
+        "summary": "Esse repositório tem como objetivo listar\nconteúdos gratuitos, como livros, cursos entre\noutras coisas, que são compartilhados pela\nnossa comunidade."
       }
     ]
   },
