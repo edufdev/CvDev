@@ -41,6 +41,21 @@
         "topic": "Mis gustos, pasatiempos y más",
         "fact": "* Música jazz, clasic rock n roll y blus\n* Estar con mis mascotas\n* Compartir ideas\n* Tomar café"
       }
+    ],
+    "recommendations": [
+      {
+        "title": " 7 libros para encontrar tu motivación y cumplir tus metas",
+        "type": "reading",
+        "URL": "https://platzi.com/blog/libros-motivacion-metas/",
+        "authors": [
+          {
+            "name": "Platzi",
+            "surnames": "Platzi",
+            "title": "Author"
+          }
+        ],
+        "summary": "\"Preguntamos a nuestros estudiantes qué libros\nfueron importantes para siempre seguir adelante\ny alcanzar sus objetivos. La respuesta de la\ncomunidad fue increíble. No fue fácil, pero aquí\ntenemos la lista de los 7 libros más\nrecomendados\""
+      }
     ]
   },
   "experience": {
