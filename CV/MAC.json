@@ -79,6 +79,42 @@
       },
       {
         "details": {
+          "name": "Hello, FastAPI world",
+          "description": "- Prueba con la gran mayoría de funcionalidades FastAPI. \n- Utilización de las Path Operations, los diferentes tipos de parámetros de las mismas.\n- Validación de datos.",
+          "URL": "https://github.com/edufdev/Hello_FastAPI_world",
+          "image": {
+            "alt": "proyecto-fastapi-2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/01/015b804a-f3ae-4b88-b9ee-5d3096c58f70_proyecto-fastapi-2.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-01",
+            "competences": [
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Ubuntu",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Análisis de los objetos, clases y métodos de la aplicación Uber",
           "description": "- A partir de este análisis se realizo la extracción y definición de los objetos, clases y métodos que conforman la aplicación.\n- Utilice UML para modelarla.\n- Usando diferentes lenguajes como Java, PHP y Python hice la implementación de las clases y objetos de la aplicación.",
           "URL": "https://github.com/edufdev/objetos_clases_y_metodos_app_uber",
