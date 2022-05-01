@@ -68,6 +68,19 @@
           }
         ],
         "summary": "Esse repositório tem como objetivo listar\nconteúdos gratuitos, como livros, cursos entre\noutras coisas, que são compartilhados pela\nnossa comunidade."
+      },
+      {
+        "title": " How to survive Stackoverflowgeddon?",
+        "type": "reading",
+        "URL": "https://www.getmanfred.com/blog/how-to-survive-stackoverflowgeddon",
+        "authors": [
+          {
+            "name": "Manfred:",
+            "surnames": "Posted on March 24, 2022, by Coral Mocquot",
+            "title": "Author"
+          }
+        ],
+        "summary": "On January 13th, Stack Overflow CEO announced\nthat the company would discontinue Developer\nStories, the online CV format used by the popular\ntechnical Q&A site."
       }
     ]
   },
