@@ -47,34 +47,6 @@
     "projects": [
       {
         "details": {
-          "name": "Proyectos hechos en Python",
-          "description": "Proyectos personales realizados durante y después de los cursos recibidos en Platzi.",
-          "URL": "https://github.com/edufdev?tab=repositories"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-10-01",
-            "competences": [
-              {
-                "name": "Linux",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Diseño de API de Twitter",
           "description": "Estructura de la API de Twitter replicándola en un diagrama que podrás llevar a código siguiendo tu ruta de aprendizaje en desarrollo backend en Platzi.",
           "URL": "https://www.canva.com/design/DAE8CE48A-w/w8EXBREFvvXBWA4_hqTVWg/view?utm_content=DAE8CE48A-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
