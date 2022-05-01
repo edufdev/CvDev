@@ -109,6 +109,19 @@
         "summary": "\"Your data are yours\" is the claim of many\nprofessional social networks. We have a different\nconcept of what \"yours' should mean."
       },
       {
+        "title": " Tutorial: cómo extraer datos de Twitter con Python",
+        "type": "other",
+        "URL": "https://platzi.com/blog/extraer-datos-twitter/",
+        "authors": [
+          {
+            "name": "Platzi:",
+            "surnames": "Curso de Python Intermedio: Comprehensions, Lambdas y Manejo de Errores",
+            "title": "Author"
+          }
+        ],
+        "summary": "En este post aprenderás cómo extraer tweets de\nun trending topic de Twitter utilizando Python,\nguardarlos en un archivo de texto y luego obtener\ncuáles son las cuentas más influyentes y las\npalabras más repetidas del topic."
+      },
+      {
         "title": "Creando siglas con Python",
         "type": "other",
         "URL": "https://platzi.com/tutoriales/1937-python/13355-creando-siglas-con-python/",
