@@ -345,31 +345,31 @@
       },
       {
         "skill": {
-          "name": "Django",
+          "name": "Airflow",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Ubuntu",
+          "name": "Pandas",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Flask",
+          "name": "Numpy",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Fastapi",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "GraphQL",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       }
