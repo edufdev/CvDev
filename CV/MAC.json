@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Guatemala",
         "region": "Guatemala",
-        "municipality": "Ciudad de Guatemala",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Ciudad de Guatemala"
       }
     },
     "relevantLinks": [
@@ -157,6 +156,50 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Data Buddies"
+        },
+        "roles": [
+          {
+            "name": "Python Engineer",
+            "startDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "I have developed process of extraction, transofrmación and loading of data from different sources such as web scrapping, APIs and different databases.\nCreate automation software with python to match hundreds of thousands of durable products.\nWork on backend functionalities of the web app that the company created."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Numpy",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
@@ -328,12 +371,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -780,7 +821,6 @@
         "Backend Developer",
         "Data Scientist"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
