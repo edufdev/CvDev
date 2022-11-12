@@ -9,7 +9,7 @@
       "name": "Oscar Eduardo",
       "surnames": "Fuentes",
       "title": "Python Engineer",
-      "description": "Soy desarrollador web backend con Python y Django para la construcción de aplicaciones seguras y escalables. Busco trabajar con datos que extraen de las APIs que usan y estructurarlos para que soporten sus nuevos informes y productos.",
+      "description": "I am an engineer with Python. I have 22 months of\nprofessional experience, being backend development the\nmain focus of my career, handling relational and non-relational databases. Early in my career I developed automation systems with Python, ETL processes and worked with Django. I am currently pursuing a degree in Data Engineering, reorienting my career towards the world of data. I love to apply solutions and techniques through programming.",
       "avatar": {
         "alt": "Foto-tamaño-cedula.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/3cace463-e6ed-4fc8-b603-629ca3b792fb_foto-tamano-cedula.png"
@@ -329,11 +329,11 @@
     "languages": [
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
