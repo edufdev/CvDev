@@ -8,7 +8,7 @@
     "profile": {
       "name": "Oscar Eduardo",
       "surnames": "Fuentes",
-      "title": "Desarrollador backend con Python y Django.",
+      "title": "Python Engineer",
       "description": "Soy desarrollador web backend con Python y Django para la construcción de aplicaciones seguras y escalables. Busco trabajar con datos que extraen de las APIs que usan y estructurarlos para que soporten sus nuevos informes y productos.",
       "avatar": {
         "alt": "Foto-tamaño-cedula.png",
@@ -22,6 +22,10 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://edufdev.xyz"
+      },
       {
         "type": "github",
         "URL": "https://github.com/edufdev"
