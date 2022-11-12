@@ -629,11 +629,11 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
-        "name": "Ingeniería en Sistemas de Información y Ciencias de la Computación",
+        "name": "Information Systems Engineering and Computer Science",
         "startDate": "2021-01-01",
         "institution": {
           "name": "Universidad Mariano Gálvez de Guatemala",
-          "description": "El Ingeniero en Sistemas de Información egresado de la Universidad Mariano Gálvez de Guatemala, es un profesional que se desempeña en el área de sistemas e informática capacitado para las siguientes actividades:\n\nIntegración de sistemas operativos, redes de computadoras, telecomunicaciones, hardware, bases de datos, aseguramiento de la calidad y técnicas de desarrollo de software\nAnálisis, diseño y desarrollo de sistemas de información útiles a las empresas, aplicando conceptos gerenciales, ingeniería económica, estadística, calidad y procesos administrativos\nRealizar estudios de desempeño y uso de sistemas automatizados\nApoyar a todas las unidades de las organizaciones en la integración de equipos de desarrollo de soluciones de sistemas\nAdaptarse e integrarse a nuevas tecnologías que en el futuro se desarrollen\nAdministrar cualquier área dentro de las empresas aplicado los conocimientos adquiridos\nTrabajar en grupos multidisciplinarios\nFormar grupos de trabajo y dirigirlos en proyectos de sistemas de información\nAplicar y practicar los valores éticos en su función y desempeño profesional",
+          "description": "The Information Systems Engineer graduated from the Mariano Galvez University of Guatemala, is a professional who works in the area of information systems and technologies, trained for the following activities:\n\nIntegration of operating systems, computer networks, telecommunications, hardware, databases, quality assurance and software development techniques.\nAnalysis, design and development of useful information systems for companies, applying concepts of management, economic engineering, statistics, quality and administrative processes.\nConduct performance and utilization studies of automated systems.\nSupport all organizational units in the integration of systems solutions development teams.\nAdapt and integrate to new technologies to be developed in the future.\nManage any area within the companies applying the acquired knowledge.\nWork in multidisciplinary groups.\nForm work groups and lead them in information systems projects.\nApply and practice ethical values in their professional function and performance.",
           "URL": "https://umg.edu.gt/ingenieria/sistemas",
           "image": {
             "alt": "descarga.png",
